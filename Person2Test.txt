@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 This is a test file to ensure Git is setup properly.
 
 
 
 
 A change was made to the last line.
+=======
+This is for challenge 1, I am changing text on the first line of a file.
+>>>>>>> b153101f56a2fd657223759d028c985a1932f722
