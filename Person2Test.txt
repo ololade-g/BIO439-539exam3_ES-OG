@@ -1,1 +1,1 @@
-This is a test file to ensure Git is setup properly.
+This is for challenge 1, I am changing text on the first line of a file.
