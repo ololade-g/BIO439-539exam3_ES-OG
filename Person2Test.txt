@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is a test file to ensure Git is setup properly.
+This is a test file to ensure Git is setup properly. For challenge 2 I am ALSO changing this line, causing a merge error.
 
 
 
